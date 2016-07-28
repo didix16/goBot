@@ -1,0 +1,16 @@
+module.exports = {
+	
+	googleRefreshToken: '1/DiILaHI13h0i7j5LV7wUNBcrgsO8VailM_k-u9MypDM',
+	accessToken: null,
+	latitude: 54.0,
+	longitude: 1.4,
+	authType: 0,
+}
+
+/*:AccessToken Response:  { access_token: 'ya29.Ci8sAwaxxT92zaTuetzuC8yG1pYHmIquEKyRJzOpGQYyJ092rFAbUPPeLwoRm3nt1A',
+  token_type: 'Bearer',
+  expires_in: 3600,
+  refresh_token: '1/DiILaHI13h0i7j5LV7wUNBcrgsO8VailM_k-u9MypDM',
+  id_token: 'eyJhbGciOiJSUzI1NiIsImtpZCI6IjBiZDEwY2JmMDM2OGQ2MWE0NDBiZjYxZjNiM2EyZDI0NGExODQ5NDcifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhdF9oYXNoIjoicGtsME40VmdTajVTNXBidmI3em9xdyIsImF1ZCI6Ijg0ODIzMjUxMTI0MC03M3JpM3Q3cGx2azk2cGo0Zjg1dWo4b3RkYXQyYWxlbS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwNDYyNzUwMzc0ODg4NzkyMjEyMSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhenAiOiI4NDgyMzI1MTEyNDAtNzNyaTN0N3Bsdms5NnBqNGY4NXVqOG90ZGF0MmFsZW0uYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJlbWFpbCI6ImRyb2RyaWd1ZXo4MTZAZ21haWwuY29tIiwiaWF0IjoxNDY5NTY1ODcyLCJleHAiOjE0Njk1Njk0NzJ9.pIQsx4Hw8IByVYNhtAnzyrcgXoaZJN6SUdtou-QpKWCqsmndTk48PHdN8kTm4izSB8SpDoVNAji6qrZqzaaQiLsVF0Yegwl2p4j8hzaD-1Cl9Xx1brMxheNQV5czTXtL_Vwy1U-Rkqt7IMi1CYzYCShnGvMTE3Q3RGFLrvcTOaYoFfwdnT-geXkcAEZQOn9RDCDwyJSvfSV4aVBWZsYPuZ-j3ElvMngCu-rZ9TLJUBGgrK9sdjOvcRoxCl8NhF_T0r-tNQyfk4_mCNcK8WKIdINYn1uZUdzF1AyjvosU6WcIbqtm2LGgz2URmyJpDKML9LiLm2rW6CrZt-nqHSNllA' }
+
+id_token ==> AccessToken*/
